@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.ocpsoft.prettytime</groupId>
+  <artifactId>prettytime</artifactId>
+  <versioning>
+    <versions>
+      <version>4.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150804092426</lastUpdated>
+  </versioning>
+</metadata>
